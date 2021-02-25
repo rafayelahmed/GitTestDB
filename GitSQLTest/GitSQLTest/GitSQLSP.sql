@@ -1,0 +1,5 @@
+﻿CREATE PROCEDURE [dbo].[GitSQLSP]
+	
+AS
+	SELECT * from Emp
+RETURN 0
