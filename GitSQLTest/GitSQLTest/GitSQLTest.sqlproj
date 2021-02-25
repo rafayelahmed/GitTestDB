@@ -62,4 +62,7 @@
     <Build Include="Emp.sql" />
     <Build Include="GitSQLSP.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="GitSQLTest.publish.xml" />
+  </ItemGroup>
 </Project>
