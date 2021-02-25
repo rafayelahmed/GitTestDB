@@ -2,5 +2,5 @@
 	
 AS
     
-	SELECT * from Emp where EmpName='1'
+	SELECT * from Emp where EmpName='1' and [Id]=1
 RETURN 0
